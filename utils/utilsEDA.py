@@ -362,7 +362,7 @@ def api_EDA_ev_demand(anios=[2015,2016,2017,2018],trunc='day',file='demand.txt')
         
         for elem in range(0,len(res[0]['values'])):
             lista_elem.append(extract_info(res[0],{'values':{elem:['datetime','value']}}))
-    lista_tun=[[str(lista_elem[i][0]),str(lista_elem[i][1])] for i in range(0,len(lista_elem))]
+        lista_tun=[[str(lista_elem[i][0]),str(lista_elem[i][1])] for i in range(0,len(lista_elem))]
 
     for i in range(0,len(lista_tun)):
         save_file(file,'time;total_demand',lista_tun[i])
