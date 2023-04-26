@@ -1,5 +1,5 @@
 # EDA Fuentes de energía en España
-Análisis exploratorio de datos sobre las fuentes de energía en España en un periodo de tiempo comprendido entre 2015-2019.
+Análisis exploratorio de datos sobre las fuentes de energía en España en un periodo de tiempo comprendido entre 2015-2019. Los datos utilizados provienen de csv de [kaggle](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather) y extraídos mediante [API Ree](https://www.ree.es/es/apidatos)
 
 ![img](src/img/img_readme.jpeg)
 
@@ -18,17 +18,17 @@ Análisis exploratorio de datos sobre las fuentes de energía en España en un p
 
 ---
 - [ 1. ANÁLISIS EXPLORATORIO DE DATOS (EDA):](src/EDA.ipynb#1)
-    - [1.1. Hipótesis](EDA.ipynb#11)
-    - [1.2. Acondicionamiento bases de datos](EDA.ipynb#12)
-    - [1.3. Análisis visual](EDA.ipynb#13)
-        - [1.3.1. Evolución energías en España](EDA.ipynb#131)
-        - [1.3.2. Energía generada vs energía demandada](EDA.ipynb#132)
-        - [1.3.3. Balance eficiencia energética-efectos adversos](EDA.ipynb#133)
+    - [1.1. Hipótesis](src/EDA.ipynb#11)
+    - [1.2. Acondicionamiento bases de datos](src/EDA.ipynb#12)
+    - [1.3. Análisis visual](src/EDA.ipynb#13)
+        - [1.3.1. Evolución energías en España](src/EDA.ipynb#131)
+        - [1.3.2. Energía generada vs energía demandada](src/EDA.ipynb#132)
+        - [1.3.3. Balance eficiencia energética-efectos adversos](src/EDA.ipynb#133)
         - [1.3.4. Influencia del clima en la generación de energía](EDA.ipynb#134)
-    - [1.4. Análisis estadístico](EDA.ipynb#14)
-        - [1.4.1. Evolución energías en España](EDA.ipynb#141)
-        - [1.4.4. Influencia del clima en la generación de energía](EDA.ipynb#144)
-- [2. CONCLUSIONES](EDA.ipynb#2)
+    - [1.4. Análisis estadístico](src/EDA.ipynb#14)
+        - [1.4.1. Evolución energías en España](src/EDA.ipynb#141)
+        - [1.4.4. Influencia del clima en la generación de energía](src/EDA.ipynb#144)
+- [2. CONCLUSIONES](src/EDA.ipynb#2)
 ---
 
 
