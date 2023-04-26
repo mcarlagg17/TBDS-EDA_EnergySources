@@ -1,7 +1,7 @@
 # EDA Fuentes de energía en España
 Análisis exploratorio de datos sobre las fuentes de energía en España en un periodo de tiempo comprendido entre 2015-2019.
 
-![img](./src/img/img_readme.jpg)
+![img](src/img/img_readme.jpeg)
 
 ## **Estructura** del proyecto 🗿 
 - ***README.md***: *archivo actual, información inicial.*
@@ -17,7 +17,7 @@ Análisis exploratorio de datos sobre las fuentes de energía en España en un p
 ### *Contenido notebook EDA* 📌 
 
 ---
-- [ 1. ANÁLISIS EXPLORATORIO DE DATOS (EDA):](EDA.ipynb#1)
+- [ 1. ANÁLISIS EXPLORATORIO DE DATOS (EDA):](src/EDA.ipynb#1)
     - [1.1. Hipótesis](EDA.ipynb#11)
     - [1.2. Acondicionamiento bases de datos](EDA.ipynb#12)
     - [1.3. Análisis visual](EDA.ipynb#13)
@@ -55,7 +55,3 @@ ___
 ---
 
 ![img](./src/img/logo.jpg)
-<<<<<<< HEAD
-
-=======
->>>>>>> 4cf3ae0 (EDA modified)
