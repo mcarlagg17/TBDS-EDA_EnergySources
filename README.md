@@ -55,4 +55,7 @@ ___
 ---
 
 ![img](./src/img/logo.jpg)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4cf3ae0 (EDA modified)
